@@ -1,1 +1,2 @@
-go build -o ./go-test
+build:
+	go build -o ./go-test main.go 

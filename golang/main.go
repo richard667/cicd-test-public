@@ -1,6 +1,9 @@
 package main
 
-import "time"
+import (
+	"time"
+	"fmt"
+)
 
 func main(){
 	t := time.Tick(time.Second)
