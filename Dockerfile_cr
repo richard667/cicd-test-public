@@ -1,4 +1,4 @@
-FROM cr-stg-cn-beijing.volces.com/paas2b_qa/cp-test:busybox
+FROM cr-stg-cn-beijing.volces.com/cp-source-image/cp-source-image:nginx
   
 MAINTAINER richard
 

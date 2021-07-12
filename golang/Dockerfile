@@ -1,4 +1,4 @@
-FROM 1234qweraz/nginx
+FROM cr-stg-cn-beijing.volces.com/cp-source-image/cp-source-image:nginx
 
 MAINTAINER richard
 
